@@ -1,0 +1,44 @@
+profile:
+  full_name: "Sai Chaitanya Raj Naidu"
+  email: "saichaitanya1006@gmail.com"
+  phone: "+91-7095373700"
+  location_pref: ["Hyderabad", "Bengaluru", "Remote"]
+  current_title: "Senior Supply Chain Engineer / Procurement Analyst"
+  years_experience: 8.5
+  achievements:
+    - "Boosted sourcing efficiency by 20% using SAP Ariba."
+    - "Increased e-aggregator adoption from 40% to 80%."
+    - "Supported SAP S/4HANA migration and UAT at Tata Projects."
+  core_skills:
+    - "SAP Ariba"
+    - "SAP S/4HANA"
+    - "Strategic Sourcing"
+    - "Procurement (Direct & Indirect)"
+    - "P2P / S2P"
+    - "Vendor Reconciliation"
+    - "Power BI"
+    - "Advanced Excel"
+
+job_preferences:
+  keywords:
+    - "Purchase Manager"
+    - "Procurement Manager"
+    - "Strategic Sourcing"
+    - "Supply Chain Manager"
+    - "Supply Chain Analyst"
+    - "SCM"
+    - "S2P"
+    - "Procure to Pay Analyst"
+    - "Procurement Analyst"
+    - "Sourcing Manager"
+    - "SAP Ariba"
+  locations_include: ["Hyderabad", "Bengaluru", "Remote"]
+  exclude_keywords: ["Fresher", "Intern", "Salesforce"]
+
+automation_policy:
+  mode: "semi-auto"
+  pause_on_submit: true
+
+storage:
+  db_path: "data/jobs.db"
+  output_dir: "data/outputs"
